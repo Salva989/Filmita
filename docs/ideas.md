@@ -18,8 +18,8 @@
 - Usare anche questa raccolta come punto di partenza:
   - `https://archive.org/details/movies?tab=collection&query=Italian`
 
-### 4. Usare meglio correlati e suggeriti
-- Controllare anche video correlati, suggeriti del player e upload simili.
+### 4. Usare meglio correlati e suggeriti su YouTube
+- Controllare anche video correlati, suggeriti del player e upload simili su YouTube.
 - Se emergono candidati coerenti in italiano, inserirli nel flusso di verifica.
 - I correlati sono utili per discovery, non sono una prova di validità.
 
