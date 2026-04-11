@@ -8,6 +8,9 @@
     "platform": "YouTube",
     "source_url": "https://www.youtube.com/watch?v=SSAAp9dD-Yg",
     "availability_type": "full_film",
+    "wikipedia_duration_minutes": 89,
+    "source_duration_minutes": null,
+    "duration_match_status": "da_verificare",
     "verification_status": "semiverificato",
     "audio_verification": {
       "status": "likely_italian",
@@ -35,6 +38,9 @@
     "platform": "YouTube",
     "source_url": "https://www.youtube.com/watch?v=wvrPIJadNsY",
     "availability_type": "full_film",
+    "wikipedia_duration_minutes": 108,
+    "source_duration_minutes": null,
+    "duration_match_status": "da_verificare",
     "verification_status": "semiverificato",
     "audio_verification": {
       "status": "likely_italian",
@@ -62,6 +68,9 @@
     "platform": "YouTube",
     "source_url": "https://www.youtube.com/watch?v=bU6XuHivM3E",
     "availability_type": "full_film_or_long_form_upload",
+    "wikipedia_duration_minutes": 123,
+    "source_duration_minutes": null,
+    "duration_match_status": "da_verificare",
     "verification_status": "da_verificare",
     "audio_verification": {
       "status": "uncertain",
@@ -89,6 +98,9 @@
     "platform": "Dailymotion",
     "source_url": "https://www.dailymotion.com/video/x9oa9ww",
     "availability_type": "full_film_or_long_form_upload",
+    "wikipedia_duration_minutes": 110,
+    "source_duration_minutes": null,
+    "duration_match_status": "da_verificare",
     "verification_status": "da_verificare",
     "audio_verification": {
       "status": "uncertain",
@@ -116,6 +128,9 @@
     "platform": "YouTube",
     "source_url": "https://www.youtube.com/watch?v=IyDk7FWkK_o",
     "availability_type": "clip_or_related_entry",
+    "wikipedia_duration_minutes": 105,
+    "source_duration_minutes": null,
+    "duration_match_status": "no_match_or_unknown",
     "verification_status": "da_verificare",
     "audio_verification": {
       "status": "uncertain",

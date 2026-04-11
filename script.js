@@ -7,6 +7,12 @@ const labels = {
   da_verificare: 'Da verificare'
 };
 
+const durationLabels = {
+  match: 'Durata compatibile',
+  da_verificare: 'Durata da verificare',
+  no_match_or_unknown: 'Durata non compatibile o ignota'
+};
+
 function buildSummary(films) {
   const total = films.length;
   const semi = films.filter((film) => film.verification_status === 'semiverificato').length;
@@ -38,6 +44,8 @@ function renderFilms(films) {
 
     node.querySelector('.audio').textContent = film.audio_verification.evidence;
     node.querySelector('.quality').textContent = film.quality_verification.evidence;
+    const sourceDuration = film.source_duration_minutes == null ? 'ignota' : `${film.source_duration_minutes} min`;
+    node.querySelector('.duration').textContent = `Wikipedia: ${film.wikipedia_duration_minutes} min, Fonte: ${sourceDuration}, Stato: ${durationLabels[film.duration_match_status] || film.duration_match_status}`;
     node.querySelector('.poster-status').textContent = film.poster.status === 'needs_generation_prompt'
       ? 'Prompt pronto per generazione copertina'
       : film.poster.status;
