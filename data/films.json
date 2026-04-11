@@ -120,7 +120,35 @@
     "notes": "Aggiunto in questo heartbeat come singolo film migliorato. IMDb indica runtime di 93 minuti; resta necessario verificare la durata del player e la qualità video prima di promuoverlo a verificato."
   },
   {
-    "id": "amarcord-1973"
+    "id": "guardie-e-ladri-1951",
+    "title": "Guardie e ladri",
+    "director": "Mario Monicelli e Steno",
+    "year": 1951,
+    "source_list": "100 film italiani da salvare",
+    "platform": "YouTube",
+    "source_url": "https://www.youtube.com/watch?v=deHJ8r-Slfg",
+    "availability_type": "full_film",
+    "wikipedia_duration_minutes": 105,
+    "source_duration_minutes": null,
+    "duration_match_status": "da_verificare",
+    "verification_status": "semiverificato",
+    "audio_verification": {
+      "status": "likely_italian",
+      "evidence": "Il risultato YouTube riporta esplicitamente il titolo corretto 'Guardie E Ladri (1951) - Film Completo con Totó e Aldo Fabrizi' e lo snippet descrive il film italiano del 1951, forte indizio di audio in lingua originale italiana.",
+      "method": "title metadata and search snippet"
+    },
+    "quality_verification": {
+      "status": "da_verificare",
+      "evidence": "Non sono emerse indicazioni affidabili su 720p o superiore nei risultati raccolti in questo heartbeat.",
+      "method": "none"
+    },
+    "poster": {
+      "status": "needs_generation_prompt",
+      "image_url": null,
+      "prompt": "Create a vintage Italian comedy poster-inspired cover for 'Guardie e ladri' (1951) by Mario Monicelli and Steno. Totò and Aldo Fabrizi in post-war Rome, playful chase between cop and swindler, black and white palette, classic hand-painted cinema poster style, no logos."
+    },
+    "notes": "Aggiunto in questo heartbeat come singolo miglioramento reale. IMDb indica runtime di 105 minuti; resta da verificare la durata del player e la qualità video prima di promuoverlo oltre semiverificato."
+  },
   {
     "id": "amarcord-1973",
     "title": "Amarcord",
