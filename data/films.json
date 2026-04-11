@@ -180,6 +180,36 @@
     "notes": "Aggiunto in questo heartbeat come singolo miglioramento reale. IMDb indica runtime di 108 minuti; resta necessario verificare durata player e qualità prima di promuoverlo oltre semiverificato."
   },
   {
+    "id": "roma-citta-aperta-1945",
+    "title": "Roma città aperta",
+    "director": "Roberto Rossellini",
+    "year": 1945,
+    "source_list": "100 film italiani da salvare",
+    "platform": "Dailymotion",
+    "source_url": "https://www.dailymotion.com/video/xa2hfxg",
+    "availability_type": "full_film_or_long_form_upload",
+    "wikipedia_duration_minutes": 103,
+    "source_duration_minutes": null,
+    "duration_match_status": "da_verificare",
+    "verification_status": "semiverificato",
+    "audio_verification": {
+      "status": "likely_italian",
+      "evidence": "Il risultato Dailymotion usa il titolo italiano corretto 'Roma città aperta/1945 ITA HD' e lo snippet riporta una sinossi coerente del film ambientato durante l'occupazione nazista di Roma.",
+      "method": "title metadata and search snippet"
+    },
+    "quality_verification": {
+      "status": "likely_hd",
+      "evidence": "Il titolo del risultato include esplicitamente 'ITA HD', indizio utile ma non ancora conferma tecnica del livello 720p+.",
+      "method": "title metadata"
+    },
+    "poster": {
+      "status": "needs_generation_prompt",
+      "image_url": null,
+      "prompt": "Create a dramatic neorealist Italian poster-inspired cover for 'Roma città aperta' (1945) by Roberto Rossellini. War-torn Rome, resistance figures, Anna Magnani-like silhouette, stark black and white contrast, urgent vintage hand-painted poster style, no logos."
+    },
+    "notes": "Aggiunto in questo heartbeat come singolo miglioramento reale. IMDb indica runtime di 103 minuti; prima di promuoverlo oltre semiverificato serve verifica diretta della durata del player e del livello reale di qualità video."
+  },
+  {
     "id": "amarcord-1973",
     "title": "Amarcord",
     "director": "Federico Fellini",
