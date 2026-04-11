@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Ladri di biciclette",
+    "director": "Vittorio De Sica",
+    "year": 1948,
+    "platform": "YouTube",
+    "source_url": "https://www.youtube.com/watch?v=SSAAp9dD-Yg",
+    "search_query": "site:youtube.com \"film completo ita\" \"Ladri di biciclette\"",
+    "source_duration_minutes": 104,
+    "duration_over_60": true,
+    "duration_evidence": "Snippet del risultato in playlist mobile mostra 1:44:32.",
+    "availability_type": "full_film",
+    "verification_status": "semiverificato",
+    "notes": "Il risultato parla esplicitamente di film completo HD in italiano. Durata sopra 60 minuti compatibile con un film intero. Da rifinire confronto puntuale con durata Wikipedia."
+  },
+  {
+    "title": "La strada",
+    "director": "Federico Fellini",
+    "year": 1954,
+    "platform": "YouTube",
+    "source_url": "https://www.youtube.com/watch?v=wvrPIJadNsY",
+    "search_query": "site:youtube.com \"film completo ita\" \"La strada\"",
+    "source_duration_minutes": null,
+    "duration_over_60": "likely",
+    "duration_evidence": "Titolo del risultato: 'La Strada (1954) 1080p Full Black and White Italian Movie'. Nessuna durata leggibile nel risultato raccolto.",
+    "availability_type": "full_film",
+    "verification_status": "da_verificare",
+    "notes": "Candidato forte per film completo, ma serve recuperare durata reale del player e validità del contenuto, dato che alcuni riscontri utente indicano possibile rimozione del video."
+  },
+  {
+    "title": "Amarcord",
+    "director": "Federico Fellini",
+    "year": 1973,
+    "platform": "YouTube",
+    "source_url": "https://www.youtube.com/watch?v=txLvm2TE0kQ",
+    "search_query": "site:youtube.com \"film completo ita\" \"Amarcord\"",
+    "source_duration_minutes": null,
+    "duration_over_60": "likely",
+    "duration_evidence": "Il titolo del risultato è 'Amarcord (Film completo)'. Nessuna durata visibile nei risultati raccolti.",
+    "availability_type": "full_film_or_long_form_upload",
+    "verification_status": "da_verificare",
+    "notes": "Buon candidato discovery. Mancano durata, verifica audio e qualità."
+  }
+]
