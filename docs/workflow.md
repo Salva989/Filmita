@@ -102,7 +102,19 @@ Quando ci sono indizi ragionevoli ma manca almeno una conferma forte.
 ### Quando usare `da_verificare`
 Quando il risultato è promettente ma ambiguo, oppure sembra clip/entry correlata.
 
-## 8. Evoluzione del sito
+## 8. Uso dei correlati e risultati suggeriti
+
+Controllare anche:
+- video correlati
+- risultati suggeriti del player
+- upload simili emersi dalla piattaforma o dal motore di ricerca
+
+Se nei correlati compaiono candidati coerenti in italiano:
+- usarli come nuove fonti candidate
+- sottoporli allo stesso workflow di verifica su durata, lingua audio e qualità
+- non considerarli validi automaticamente solo perché sono correlati
+
+## 9. Evoluzione del sito
 
 Step successivi utili:
 - filtri e ricerca testuale

@@ -18,6 +18,11 @@
 - Usare anche questa raccolta come punto di partenza:
   - `https://archive.org/details/movies?tab=collection&query=Italian`
 
+### 4. Usare meglio correlati e suggeriti
+- Controllare anche video correlati, suggeriti del player e upload simili.
+- Se emergono candidati coerenti in italiano, inserirli nel flusso di verifica.
+- I correlati sono utili per discovery, non sono una prova di validità.
+
 ## Note operative
 - Se Wikipedia riporta una durata e la piattaforma mostra una durata compatibile, la confidenza sul fatto che sia un film completo aumenta.
 - La durata da sola non basta a verificare lingua e qualità, ma è un ottimo filtro contro i falsi positivi.
