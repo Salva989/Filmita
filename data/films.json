@@ -150,6 +150,36 @@
     "notes": "Aggiunto in questo heartbeat come singolo miglioramento reale. IMDb indica runtime di 105 minuti; resta da verificare la durata del player e la qualità video prima di promuoverlo oltre semiverificato."
   },
   {
+    "id": "bellissima-1951",
+    "title": "Bellissima",
+    "director": "Luchino Visconti",
+    "year": 1951,
+    "source_list": "100 film italiani da salvare",
+    "platform": "YouTube",
+    "source_url": "https://www.youtube.com/watch?v=szpkjbxDEUw",
+    "availability_type": "full_film",
+    "wikipedia_duration_minutes": 108,
+    "source_duration_minutes": null,
+    "duration_match_status": "da_verificare",
+    "verification_status": "semiverificato",
+    "audio_verification": {
+      "status": "likely_italian",
+      "evidence": "Il risultato YouTube riporta 'film gratis completo in italiano' e lo snippet identifica correttamente Bellissima come film del 1951 diretto da Luchino Visconti con Anna Magnani e Walter Chiari.",
+      "method": "title metadata and search snippet"
+    },
+    "quality_verification": {
+      "status": "da_verificare",
+      "evidence": "Nessuna prova robusta di 720p o superiore emersa dai risultati di ricerca raccolti in questo heartbeat.",
+      "method": "none"
+    },
+    "poster": {
+      "status": "needs_generation_prompt",
+      "image_url": null,
+      "prompt": "Create a classic Italian melodrama poster-inspired cover for 'Bellissima' (1951) by Luchino Visconti. Anna Magnani-like mother figure, Cinecittà audition atmosphere, post-war Roman cinema world, black and white elegance, hand-painted vintage poster style, no logos."
+    },
+    "notes": "Aggiunto in questo heartbeat come singolo miglioramento reale. IMDb indica runtime di 108 minuti; resta necessario verificare durata player e qualità prima di promuoverlo oltre semiverificato."
+  },
+  {
     "id": "amarcord-1973",
     "title": "Amarcord",
     "director": "Federico Fellini",
