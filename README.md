@@ -1,4 +1,4 @@
-# Filmita
+# Filmita🎥
 
 Filmita è un progetto iniziale per raccogliere film italiani di grandi registi reperibili online, partendo dalla lista Wikipedia **100 film italiani da salvare** e collegando, con prudenza, risultati trovati su piattaforme come YouTube, Dailymotion e Internet Archive.
 
