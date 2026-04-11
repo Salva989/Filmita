@@ -17,11 +17,17 @@ Cercare ogni film su:
 - Dailymotion
 - Internet Archive
 
+Fonte utile di partenza per Internet Archive:
+- `https://archive.org/details/movies?tab=collection&query=Italian`
+
 Query suggerite:
-- `"TITOLO" "film completo"`
+- `"TITOLO" "film completo ita"`
+- `"TITOLO" "film ita"`
 - `"TITOLO" REGISTA YouTube`
-- `site:youtube.com "TITOLO" "film completo"`
-- `site:dailymotion.com "TITOLO"`
+- `site:youtube.com "TITOLO" "film completo ita"`
+- `site:youtube.com "TITOLO" "film ita"`
+- `site:dailymotion.com "TITOLO" "film completo ita"`
+- `site:dailymotion.com "TITOLO" "film ita"`
 - `site:archive.org "TITOLO" italiano`
 
 ## 3. Valutazione della rilevanza
@@ -34,6 +40,20 @@ Classificare il risultato come uno di questi:
 - `unclear`
 
 Se non è chiaramente il film completo, non promuoverlo a verificato.
+
+### Controllo durata contro Wikipedia
+
+Per ridurre il rischio di salvare clip o contenuti incompleti:
+- recuperare la durata dichiarata su Wikipedia del film specifico
+- confrontarla con la durata mostrata dalla piattaforma trovata
+- considerare accettabile una differenza massima di **10 minuti**
+
+Regola pratica:
+- se la durata della fonte online rientra entro `durata_wikipedia ± 10 minuti`, il contenuto può restare candidato come `full_film` o `full_film_or_long_form_upload`
+- se la differenza supera 10 minuti, degradare il risultato a `clip_or_related_entry` oppure `da_verificare`
+- se la durata della fonte online non è disponibile, non considerare la completezza verificata
+
+Questa verifica deve diventare uno dei filtri principali prima di promuovere un risultato come film completo.
 
 ## 4. Verifica della lingua audio
 
