@@ -90,6 +90,38 @@
     "notes": "Tra i risultati emersi è uno dei casi con evidenza più forte sulla qualità, ma resta consigliato un controllo manuale finale della lingua audio."
   },
   {
+    "id": "il-posto-1961",
+    "title": "Il posto",
+    "director": "Ermanno Olmi",
+    "year": 1961,
+    "source_list": "100 film italiani da salvare",
+    "platform": "Dailymotion",
+    "source_url": "https://www.dailymotion.com/video/xa0osu8",
+    "availability_type": "full_film_or_long_form_upload",
+    "wikipedia_duration_minutes": 93,
+    "source_duration_minutes": null,
+    "duration_match_status": "da_verificare",
+    "verification_status": "semiverificato",
+    "audio_verification": {
+      "status": "likely_italian",
+      "evidence": "Lo snippet Dailymotion riporta in italiano la sinossi del film ('Domenico Cantoni è un ragazzo di Meda...'), un indizio coerente con un upload italiano, ma senza ascolto diretto la lingua audio non è confermata in modo definitivo.",
+      "method": "search snippet and metadata"
+    },
+    "quality_verification": {
+      "status": "da_verificare",
+      "evidence": "Nei risultati raccolti non compaiono indicazioni affidabili di 720p o superiore.",
+      "method": "none"
+    },
+    "poster": {
+      "status": "needs_generation_prompt",
+      "image_url": null,
+      "prompt": "Create a minimalist vintage Italian poster-inspired cover for 'Il posto' (1961) by Ermanno Olmi. Young office worker in post-war Milan, corporate corridors, melancholy and quiet realism, black and white palette, elegant hand-painted typography, no logos."
+    },
+    "notes": "Aggiunto in questo heartbeat come singolo film migliorato. IMDb indica runtime di 93 minuti; resta necessario verificare la durata del player e la qualità video prima di promuoverlo a verificato."
+  },
+  {
+    "id": "amarcord-1973"
+  {
     "id": "amarcord-1973",
     "title": "Amarcord",
     "director": "Federico Fellini",
