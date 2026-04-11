@@ -1,0 +1,108 @@
+:root {
+  color-scheme: light dark;
+  --bg: #111111;
+  --panel: #1c1c1c;
+  --soft: #272727;
+  --text: #f6f1e9;
+  --muted: #c8bfb3;
+  --accent: #d6a04d;
+  --danger: #d46a6a;
+  --warn: #d6a04d;
+  --ok: #7bc27b;
+  --border: rgba(255,255,255,0.08);
+  --shadow: 0 20px 40px rgba(0,0,0,0.25);
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: linear-gradient(180deg, #151515 0%, #0e0e0e 100%);
+  color: var(--text);
+}
+.hero {
+  padding: 4rem 1.5rem 2rem;
+  border-bottom: 1px solid var(--border);
+  background: radial-gradient(circle at top, rgba(214,160,77,0.18), transparent 40%);
+}
+.hero-inner, .container { max-width: 1100px; margin: 0 auto; }
+.eyebrow { text-transform: uppercase; letter-spacing: 0.18em; color: var(--accent); font-size: 0.8rem; }
+h1 { font-size: clamp(2rem, 4vw, 3.6rem); line-height: 1.1; margin: 0.4rem 0 1rem; max-width: 13ch; }
+.lead { max-width: 70ch; color: var(--muted); font-size: 1.05rem; }
+.container { padding: 2rem 1.5rem 4rem; }
+.summary {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+.summary-card, .film-card {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  box-shadow: var(--shadow);
+}
+.summary-card { padding: 1rem 1.1rem; }
+.summary-card strong { display: block; font-size: 1.8rem; margin-bottom: 0.25rem; }
+.summary-card span { color: var(--muted); }
+.section-head { margin: 2rem 0 1rem; }
+.section-head p { color: var(--muted); }
+.films-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(290px, 1fr));
+  gap: 1.2rem;
+}
+.film-card { overflow: hidden; }
+.poster {
+  height: 180px;
+  background: linear-gradient(135deg, rgba(214,160,77,0.35), rgba(255,255,255,0.06));
+  border-bottom: 1px solid var(--border);
+  position: relative;
+}
+.poster::after {
+  content: "Poster da reperire o generare";
+  position: absolute;
+  inset: auto 1rem 1rem 1rem;
+  color: rgba(255,255,255,0.8);
+  font-size: 0.9rem;
+}
+.film-content { padding: 1rem; }
+.film-topline {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.75rem;
+  font-size: 0.82rem;
+  margin-bottom: 0.8rem;
+}
+.platform, .status {
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 0.35rem 0.6rem;
+  background: var(--soft);
+}
+.status[data-status='semiverificato'] { color: var(--warn); }
+.status[data-status='da_verificare'] { color: var(--danger); }
+h3 { margin: 0 0 0.45rem; font-size: 1.35rem; }
+.meta, .notes, dd { color: var(--muted); }
+.details {
+  display: grid;
+  gap: 0.7rem;
+  margin: 1rem 0;
+}
+.details div { padding-top: 0.7rem; border-top: 1px solid var(--border); }
+dt { font-weight: 700; margin-bottom: 0.25rem; }
+dd { margin: 0; font-size: 0.95rem; }
+.actions { margin-top: 1rem; }
+.watch-link {
+  display: inline-block;
+  color: #111;
+  background: var(--accent);
+  text-decoration: none;
+  padding: 0.75rem 1rem;
+  border-radius: 999px;
+  font-weight: 700;
+}
+@media (max-width: 640px) {
+  .hero { padding-top: 3rem; }
+  .poster { height: 150px; }
+}

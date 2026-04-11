@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Filmita, film italiani da salvare online</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <div class="hero-inner">
+        <p class="eyebrow">Filmita</p>
+        <h1>Film italiani di grandi registi, trovati online e verificati per quanto possibile</h1>
+        <p class="lead">
+          Un catalogo iniziale ispirato a “100 film italiani da salvare”, con link a piattaforme online,
+          stato di verifica, evidenze su lingua audio e qualità video, e workflow per continuare l'arricchimento.
+        </p>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="summary" id="summary"></section>
+      <section>
+        <div class="section-head">
+          <h2>Catalogo iniziale</h2>
+          <p>Dati reali, verifiche prudenti, nessun dato inventato.</p>
+        </div>
+        <div id="films-grid" class="films-grid"></div>
+      </section>
+    </main>
+
+    <template id="film-card-template">
+      <article class="film-card">
+        <div class="poster poster-placeholder"></div>
+        <div class="film-content">
+          <div class="film-topline">
+            <span class="platform"></span>
+            <span class="status"></span>
+          </div>
+          <h3></h3>
+          <p class="meta"></p>
+          <dl class="details">
+            <div>
+              <dt>Audio</dt>
+              <dd class="audio"></dd>
+            </div>
+            <div>
+              <dt>Qualità</dt>
+              <dd class="quality"></dd>
+            </div>
+            <div>
+              <dt>Copertina</dt>
+              <dd class="poster-status"></dd>
+            </div>
+          </dl>
+          <p class="notes"></p>
+          <div class="actions">
+            <a class="watch-link" target="_blank" rel="noreferrer">Apri fonte</a>
+          </div>
+        </div>
+      </article>
+    </template>
+
+    <script src="./script.js" type="module"></script>
+  </body>
+</html>

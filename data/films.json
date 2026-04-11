@@ -1,0 +1,137 @@
+[
+  {
+    "id": "ladri-di-biciclette-1948",
+    "title": "Ladri di biciclette",
+    "director": "Vittorio De Sica",
+    "year": 1948,
+    "source_list": "100 film italiani da salvare",
+    "platform": "YouTube",
+    "source_url": "https://www.youtube.com/watch?v=SSAAp9dD-Yg",
+    "availability_type": "full_film",
+    "verification_status": "semiverificato",
+    "audio_verification": {
+      "status": "likely_italian",
+      "evidence": "Il risultato di ricerca riporta esplicitamente 'film completo HD' per un classico italiano di De Sica; il contesto del risultato è coerente con una copia italiana, ma senza ascolto diretto resta da confermare.",
+      "method": "search snippet and metadata"
+    },
+    "quality_verification": {
+      "status": "likely_hd",
+      "evidence": "Lo snippet del risultato riporta esplicitamente 'film completo HD'. Nessuna conferma tecnica dello stream disponibile nel dataset iniziale.",
+      "method": "search snippet"
+    },
+    "poster": {
+      "status": "needs_generation_prompt",
+      "image_url": null,
+      "prompt": "Create a vintage neorealist Italian film poster-inspired cover for 'Ladri di biciclette' (1948) by Vittorio De Sica. Black and white bicycle, post-war Rome street, father and son silhouette, dramatic lighting, classic Italian typography, no copyright logos, poster-like composition."
+    },
+    "notes": "Fonte primaria del catalogo: Wikipedia '100 film italiani da salvare'. Verifica audio e qualità ancora da consolidare con controllo player o metadata più ricchi."
+  },
+  {
+    "id": "la-strada-1954",
+    "title": "La strada",
+    "director": "Federico Fellini",
+    "year": 1954,
+    "source_list": "100 film italiani da salvare",
+    "platform": "YouTube",
+    "source_url": "https://www.youtube.com/watch?v=wvrPIJadNsY",
+    "availability_type": "full_film",
+    "verification_status": "semiverificato",
+    "audio_verification": {
+      "status": "likely_italian",
+      "evidence": "Il video è indicato come '1080p Full Black and White Italian Movie', forte indizio che l'audio sia in italiano, ma senza ascolto diretto o transcript resta una verifica incompleta.",
+      "method": "title metadata"
+    },
+    "quality_verification": {
+      "status": "likely_1080p",
+      "evidence": "Il titolo del risultato indica esplicitamente '1080p'.",
+      "method": "title metadata"
+    },
+    "poster": {
+      "status": "needs_generation_prompt",
+      "image_url": null,
+      "prompt": "Create a poetic black and white poster-style cover for 'La strada' (1954) by Federico Fellini. Travelling performers, lonely road, circus mood, melancholic Italian neorealism, expressive faces, hand-painted vintage poster feel, no logos."
+    },
+    "notes": "Tra i risultati emersi è uno dei casi con evidenza più forte sulla qualità, ma resta consigliato un controllo manuale finale della lingua audio."
+  },
+  {
+    "id": "amarcord-1973",
+    "title": "Amarcord",
+    "director": "Federico Fellini",
+    "year": 1973,
+    "source_list": "100 film italiani da salvare",
+    "platform": "YouTube",
+    "source_url": "https://www.youtube.com/watch?v=bU6XuHivM3E",
+    "availability_type": "full_film_or_long_form_upload",
+    "verification_status": "da_verificare",
+    "audio_verification": {
+      "status": "uncertain",
+      "evidence": "Il risultato associa correttamente titolo, anno e regista, ma lo snippet non conferma chiaramente lingua audio.",
+      "method": "search result context"
+    },
+    "quality_verification": {
+      "status": "uncertain",
+      "evidence": "Nessuna evidenza tecnica sufficiente nel risultato di ricerca.",
+      "method": "none"
+    },
+    "poster": {
+      "status": "needs_generation_prompt",
+      "image_url": null,
+      "prompt": "Create an evocative cover inspired by 'Amarcord' (1973) by Federico Fellini. Dreamlike winter seaside town in Italy, nostalgic surreal atmosphere, warm muted colors, ensemble cast silhouettes, vintage Italian cinema poster style, no logos."
+    },
+    "notes": "Record utile come candidato reale ma ancora poco verificato."
+  },
+  {
+    "id": "le-notti-di-cabiria-1957",
+    "title": "Le notti di Cabiria",
+    "director": "Federico Fellini",
+    "year": 1957,
+    "source_list": "100 film italiani da salvare",
+    "platform": "Dailymotion",
+    "source_url": "https://www.dailymotion.com/video/x9oa9ww",
+    "availability_type": "full_film_or_long_form_upload",
+    "verification_status": "da_verificare",
+    "audio_verification": {
+      "status": "uncertain",
+      "evidence": "Lo snippet mostra testo in italiano nella descrizione/trascrizione del player, ma non basta per garantire che l'audio completo sia in italiano.",
+      "method": "snippet"
+    },
+    "quality_verification": {
+      "status": "uncertain",
+      "evidence": "Nessuna indicazione di 720p o stream equivalente nella ricerca raccolta finora.",
+      "method": "none"
+    },
+    "poster": {
+      "status": "needs_generation_prompt",
+      "image_url": null,
+      "prompt": "Create a night-time vintage Italian cinema cover inspired by 'Le notti di Cabiria' (1957) by Federico Fellini. Roman streets at night, vulnerable but spirited woman, neon glow, bittersweet tone, hand-painted poster composition, no logos."
+    },
+    "notes": "Buon candidato da approfondire con verifica manuale player e metadata Dailymotion."
+  },
+  {
+    "id": "il-sorpasso-1962",
+    "title": "Il sorpasso",
+    "director": "Dino Risi",
+    "year": 1962,
+    "source_list": "100 film italiani da salvare",
+    "platform": "YouTube",
+    "source_url": "https://www.youtube.com/watch?v=IyDk7FWkK_o",
+    "availability_type": "clip_or_related_entry",
+    "verification_status": "da_verificare",
+    "audio_verification": {
+      "status": "uncertain",
+      "evidence": "Il risultato principale trovato sembra essere una clip o contenuto correlato; non è ancora prova sufficiente di un film completo con audio italiano.",
+      "method": "search result context"
+    },
+    "quality_verification": {
+      "status": "uncertain",
+      "evidence": "Nessuna evidenza sufficiente sulla qualità del film completo.",
+      "method": "none"
+    },
+    "poster": {
+      "status": "needs_generation_prompt",
+      "image_url": null,
+      "prompt": "Create a stylish 1960s Italian road movie poster-inspired cover for 'Il sorpasso' (1962) by Dino Risi. Convertible car on a sunny coastal road, two contrasting male figures, bold retro typography, commedia all'italiana mood, no logos."
+    },
+    "notes": "Inserito come caso da completare, utile per mostrare workflow di discovery e scarto/validazione."
+  }
+]
