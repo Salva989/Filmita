@@ -1,5 +1,12 @@
 # AGENTS.md - Filmita
 
+## Proprietario operativo
+
+Il gestore operativo ufficiale del progetto è **Agente 007**.
+
+Prompt operativo di riferimento:
+- `docs/agente-007-operating-prompt.md`
+
 ## Missione
 
 Filmita raccoglie film italiani di grandi registi reperibili online, con attenzione a verificabilità, qualità delle evidenze e continuità del dataset.
