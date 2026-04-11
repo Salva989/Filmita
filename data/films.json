@@ -1,5 +1,35 @@
 [
   {
+    "id": "umberto-d-1952",
+    "title": "Umberto D.",
+    "director": "Vittorio De Sica",
+    "year": 1952,
+    "source_list": "100 film italiani da salvare",
+    "platform": "YouTube",
+    "source_url": "https://www.youtube.com/watch?v=YF8mJF8Vy0g",
+    "availability_type": "full_film_or_long_form_upload",
+    "wikipedia_duration_minutes": 89,
+    "source_duration_minutes": null,
+    "duration_match_status": "da_verificare",
+    "verification_status": "semiverificato",
+    "audio_verification": {
+      "status": "likely_italian",
+      "evidence": "Il risultato di ricerca Tavily per YouTube riporta esplicitamente: 'Audio in Italian with English subtitles'. È una buona evidenza indiretta, ma senza ascolto o transcript diretto resta semiverificato.",
+      "method": "search snippet and metadata"
+    },
+    "quality_verification": {
+      "status": "da_verificare",
+      "evidence": "Nessuna evidenza affidabile di 720p o superiore emersa dai risultati di ricerca raccolti in questo heartbeat.",
+      "method": "none"
+    },
+    "poster": {
+      "status": "needs_generation_prompt",
+      "image_url": null,
+      "prompt": "Create a neorealist Italian cinema poster-inspired cover for 'Umberto D.' (1952) by Vittorio De Sica. Elderly man and small dog in post-war Rome, melancholic street scene, black and white palette, classic hand-painted Italian poster style, no logos."
+    },
+    "notes": "Selezionato in questo heartbeat come singolo film migliorato. Fonte credibile trovata su YouTube; Internet Archive non ha mostrato un candidato film utile nei risultati raccolti. Prima di promuovere a verificato serve controllo diretto della durata del player e della qualità stream."
+  },
+  {
     "id": "ladri-di-biciclette-1948",
     "title": "Ladri di biciclette",
     "director": "Vittorio De Sica",
