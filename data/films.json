@@ -71,23 +71,23 @@
     "wikipedia_duration_minutes": 108,
     "source_duration_minutes": null,
     "duration_match_status": "da_verificare",
-    "verification_status": "semiverificato",
+    "verification_status": "da_verificare",
     "audio_verification": {
-      "status": "likely_italian",
-      "evidence": "Il video è indicato come '1080p Full Black and White Italian Movie', forte indizio che l'audio sia in italiano, ma senza ascolto diretto o transcript resta una verifica incompleta.",
-      "method": "title metadata"
+      "status": "uncertain",
+      "evidence": "Il candidato YouTube trovato in precedenza risulta non disponibile al controllo utente, quindi la verifica dell'audio va considerata riaperta.",
+      "method": "user validation"
     },
     "quality_verification": {
-      "status": "likely_1080p",
-      "evidence": "Il titolo del risultato indica esplicitamente '1080p'.",
-      "method": "title metadata"
+      "status": "uncertain",
+      "evidence": "Il titolo del risultato indicava '1080p', ma il link attuale risulta non disponibile e quindi l'evidenza non è più affidabile come fonte attiva.",
+      "method": "stale title metadata"
     },
     "poster": {
       "status": "needs_generation_prompt",
       "image_url": null,
       "prompt": "Create a poetic black and white poster-style cover for 'La strada' (1954) by Federico Fellini. Travelling performers, lonely road, circus mood, melancholic Italian neorealism, expressive faces, hand-painted vintage poster feel, no logos."
     },
-    "notes": "Tra i risultati emersi è uno dei casi con evidenza più forte sulla qualità, ma resta consigliato un controllo manuale finale della lingua audio."
+    "notes": "Il link YouTube precedentemente associato è stato segnalato come non disponibile. Record mantenuto come candidato da ricercare di nuovo, senza promuoverlo a fonte affidabile finché non emerge un sostituto verificabile."
   },
   {
     "id": "il-posto-1961",
@@ -131,15 +131,15 @@
     "wikipedia_duration_minutes": 105,
     "source_duration_minutes": null,
     "duration_match_status": "da_verificare",
-    "verification_status": "semiverificato",
+    "verification_status": "da_verificare",
     "audio_verification": {
-      "status": "likely_italian",
-      "evidence": "Il risultato YouTube riporta esplicitamente il titolo corretto 'Guardie E Ladri (1951) - Film Completo con Totó e Aldo Fabrizi' e lo snippet descrive il film italiano del 1951, forte indizio di audio in lingua originale italiana.",
-      "method": "title metadata and search snippet"
+      "status": "uncertain",
+      "evidence": "Il candidato YouTube trovato in precedenza è stato segnalato come non disponibile, quindi l'evidenza indiretta sull'audio non basta più per mantenerlo semiverificato.",
+      "method": "user validation and stale metadata"
     },
     "quality_verification": {
-      "status": "da_verificare",
-      "evidence": "Non sono emerse indicazioni affidabili su 720p o superiore nei risultati raccolti in questo heartbeat.",
+      "status": "uncertain",
+      "evidence": "Non sono emerse indicazioni affidabili su 720p o superiore, e il link segnalato ora non è disponibile come fonte attiva.",
       "method": "none"
     },
     "poster": {
@@ -147,7 +147,7 @@
       "image_url": null,
       "prompt": "Create a vintage Italian comedy poster-inspired cover for 'Guardie e ladri' (1951) by Mario Monicelli and Steno. Totò and Aldo Fabrizi in post-war Rome, playful chase between cop and swindler, black and white palette, classic hand-painted cinema poster style, no logos."
     },
-    "notes": "Aggiunto in questo heartbeat come singolo miglioramento reale. IMDb indica runtime di 105 minuti; resta da verificare la durata del player e la qualità video prima di promuoverlo oltre semiverificato."
+    "notes": "Il link YouTube precedentemente associato è stato segnalato come non disponibile. Record mantenuto nel catalogo, ma riportato a da verificare finché non emerge una fonte attiva e controllabile."
   },
   {
     "id": "bellissima-1951",
@@ -254,12 +254,12 @@
     "verification_status": "da_verificare",
     "audio_verification": {
       "status": "uncertain",
-      "evidence": "Lo snippet mostra testo in italiano nella descrizione/trascrizione del player, ma non basta per garantire che l'audio completo sia in italiano.",
-      "method": "snippet"
+      "evidence": "La ricerca attuale non ha prodotto un sostituto più solido del candidato Dailymotion già presente; gli altri risultati emersi erano trailer o materiali non equivalenti.",
+      "method": "search result comparison"
     },
     "quality_verification": {
       "status": "uncertain",
-      "evidence": "Nessuna indicazione di 720p o stream equivalente nella ricerca raccolta finora.",
+      "evidence": "Nessuna indicazione affidabile di 720p o stream equivalente nella verifica attuale.",
       "method": "none"
     },
     "poster": {
@@ -267,7 +267,7 @@
       "image_url": null,
       "prompt": "Create a night-time vintage Italian cinema cover inspired by 'Le notti di Cabiria' (1957) by Federico Fellini. Roman streets at night, vulnerable but spirited woman, neon glow, bittersweet tone, hand-painted poster composition, no logos."
     },
-    "notes": "Buon candidato da approfondire con verifica manuale player e metadata Dailymotion."
+    "notes": "Il candidato Dailymotion resta debole ma non è stato sostituito da fonti migliori in questa verifica. Record mantenuto come da verificare, senza promozione." 
   },
   {
     "id": "il-sorpasso-1962",
@@ -276,20 +276,20 @@
     "year": 1962,
     "source_list": "100 film italiani da salvare",
     "platform": "YouTube",
-    "source_url": "https://www.youtube.com/watch?v=IyDk7FWkK_o",
-    "availability_type": "clip_or_related_entry",
+    "source_url": null,
+    "availability_type": "no_reliable_source_found",
     "wikipedia_duration_minutes": 105,
     "source_duration_minutes": null,
     "duration_match_status": "no_match_or_unknown",
     "verification_status": "da_verificare",
     "audio_verification": {
       "status": "uncertain",
-      "evidence": "Il risultato principale trovato sembra essere una clip o contenuto correlato; non è ancora prova sufficiente di un film completo con audio italiano.",
+      "evidence": "Il precedente link associato era solo clip o contenuto correlato, quindi non viene più trattato come fonte del film completo.",
       "method": "search result context"
     },
     "quality_verification": {
       "status": "uncertain",
-      "evidence": "Nessuna evidenza sufficiente sulla qualità del film completo.",
+      "evidence": "Nessuna evidenza sufficiente sulla qualità di un film completo realmente disponibile nelle ricerche raccolte.",
       "method": "none"
     },
     "poster": {
@@ -297,6 +297,6 @@
       "image_url": null,
       "prompt": "Create a stylish 1960s Italian road movie poster-inspired cover for 'Il sorpasso' (1962) by Dino Risi. Convertible car on a sunny coastal road, two contrasting male figures, bold retro typography, commedia all'italiana mood, no logos."
     },
-    "notes": "Inserito come caso da completare, utile per mostrare workflow di discovery e scarto/validazione."
+    "notes": "Il precedente candidato è stato rimosso come fonte perché era solo una clip/contenuto correlato. Per ora il film resta nel catalogo senza link attivo finché non emerge una fonte completa e citabile."
   }
 ]
