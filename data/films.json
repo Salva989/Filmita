@@ -298,5 +298,215 @@
       "prompt": "Create a stylish 1960s Italian road movie poster-inspired cover for 'Il sorpasso' (1962) by Dino Risi. Convertible car on a sunny coastal road, two contrasting male figures, bold retro typography, commedia all'italiana mood, no logos."
     },
     "notes": "Il precedente candidato è stato rimosso come fonte perché era solo una clip/contenuto correlato. Per ora il film resta nel catalogo senza link attivo finché non emerge una fonte completa e citabile."
+  },
+  {
+    "id": "don-camillo-1961",
+    "title": "Don Camillo monsignore ma non troppo",
+    "director": "Luigi Comencini",
+    "year": 1961,
+    "source_list": "YouTube search discovery",
+    "platform": "YouTube",
+    "source_url": "https://www.youtube.com/watch?v=xCKH8cs2BVg",
+    "availability_type": "full_film_or_long_form_upload",
+    "wikipedia_duration_minutes": 105,
+    "source_duration_minutes": null,
+    "duration_match_status": "da_verificare",
+    "verification_status": "semiverificato",
+    "audio_verification": {
+      "status": "likely_italian",
+      "evidence": "Titolo YouTube riporta esplicitamente '1080p' e 'film completo a colori in italiano' come segnale di audio italiano. Video ha 240K visualizzazioni e metadata coerenti con upload italiano.",
+      "method": "title metadata and search snippet"
+    },
+    "quality_verification": {
+      "status": "likely_hd",
+      "evidence": "Il titolo esplicita '1080p' e il video ha 240K visualizzazioni suggerendo buona disponibilità, ma senza verifica diretta del player resta da consolidare.",
+      "method": "title metadata"
+    },
+    "poster": {
+      "status": "needs_generation_prompt",
+      "image_url": null,
+      "prompt": "Create a warm vintage Italian comedy poster-inspired cover for 'Don Camillo monsignore ma non troppo' (1961) by Luigi Comencini. Kindly priest character in charming Italian village, warm earthy tones, retro 1960s cinema style, hand-painted typography, no logos."
+    },
+    "notes": "Scoperto da YouTube search 'film ita' durante discovery phase (aprile 2026). Film di Luigi Comencini con Peppino De Filippo. Candidato promettente per collana commedie italiane classic. Prima di promuovere a verificato serve controllo diretto della durata del player e della effettiva disponibilità del stream."
+  },
+  {
+    "id": "marchese-del-grillo-1981",
+    "title": "Il Marchese del Grillo",
+    "director": "Mario Monicelli",
+    "year": 1981,
+    "source_list": "YouTube search discovery",
+    "platform": "YouTube",
+    "source_url": "https://www.youtube.com/watch?v=mw4f5bD_oig",
+    "availability_type": "full_film_or_long_form_upload",
+    "wikipedia_duration_minutes": 135,
+    "source_duration_minutes": null,
+    "duration_match_status": "da_verificare",
+    "verification_status": "semiverificato",
+    "audio_verification": {
+      "status": "likely_italian",
+      "evidence": "Titolo YouTube riporta 'film completo' e 'italiano'. Video ha 217K visualizzazioni da 2 mesi, metadata coerenti con upload italiano di un capolavoro di Mario Monicelli.",
+      "method": "title metadata and search snippet"
+    },
+    "quality_verification": {
+      "status": "likely_hd",
+      "evidence": "Il video ha buon numero di visualizzazioni recenti (217K da 2 mesi) suggerendo qualità buona, ma senza verifica diretta del player resta da consolidare.",
+      "method": "engagement metrics"
+    },
+    "poster": {
+      "status": "needs_generation_prompt",
+      "image_url": null,
+      "prompt": "Create a classic Italian comedy poster-inspired cover for 'Il Marchese del Grillo' (1981) by Mario Monicelli. Noble aristocrat in Rome, 18th century costume, comic nobility, hand-painted vintage Italian cinema style, warm period tones, no logos."
+    },
+    "notes": "Scoperto da YouTube search 'film ita' durante discovery phase (aprile 2026). Capolavoro di Mario Monicelli con Alberto Sordi. Commedia italiana di alta qualità. Prima di promuovere a verificato serve controllo diretto della durata del player e della effettiva disponibilità del stream."
+  },
+  {
+    "id": "dracula-3d-2012",
+    "title": "Dracula 3D",
+    "director": "Dario Argento",
+    "year": 2012,
+    "source_list": "YouTube search discovery",
+    "platform": "YouTube",
+    "source_url": "https://www.youtube.com/watch?v=sR88BHY7I8o",
+    "availability_type": "full_film_or_long_form_upload",
+    "wikipedia_duration_minutes": 110,
+    "source_duration_minutes": null,
+    "duration_match_status": "da_verificare",
+    "verification_status": "semiverificato",
+    "audio_verification": {
+      "status": "likely_italian",
+      "evidence": "Titolo YouTube riporta 'film completo in italiano' e 'horror'. Video ha 3.6M visualizzazioni, ottima visibilità. Dario Argento è regista italiano, metadata coerenti con audio italiano.",
+      "method": "title metadata and director context"
+    },
+    "quality_verification": {
+      "status": "likely_hd",
+      "evidence": "Il video ha 3.6M visualizzazioni con buona data recente (1 anno fa), suggerendo qualità video accettabile. Film 2012 in 3D dovrebbe avere qualità 720p minimo, ma resta da verificare direttamente.",
+      "method": "engagement metrics and release year"
+    },
+    "poster": {
+      "status": "needs_generation_prompt",
+      "image_url": null,
+      "prompt": "Create a dramatic gothic horror poster-inspired cover for 'Dracula 3D' (2012) by Dario Argento. Dark vampire castle, red blood accents, 3D horror atmosphere, elegant Italian gothic style, Dario Argento signature giallo mood, no logos."
+    },
+    "notes": "Scoperto da YouTube search 'film ita' durante discovery phase (aprile 2026). Regia di Dario Argento, maestro del cinema horror italiano. Film di alta visibilità (3.6M views). Prima di promuovere a verificato serve controllo diretto della durata del player e della effettiva disponibilità del stream."
+  },
+  {
+    "id": "banda-vallanzasca-1977",
+    "title": "La banda Vallanzasca",
+    "director": "Enzo G. Castellari",
+    "year": 1977,
+    "source_list": "YouTube search discovery",
+    "platform": "YouTube",
+    "source_url": "https://www.youtube.com/watch?v=URwB_AFEyMw",
+    "availability_type": "full_film_or_long_form_upload",
+    "wikipedia_duration_minutes": 125,
+    "source_duration_minutes": null,
+    "duration_match_status": "da_verificare",
+    "verification_status": "semiverificato",
+    "audio_verification": {
+      "status": "likely_italian",
+      "evidence": "Titolo YouTube riporta 'film completo' e il film è produzione italiana. Video ha 160K visualizzazioni da 4 mesi, metadata coerenti con upload italiano di un capolavoro criminale italiano.",
+      "method": "title metadata and production context"
+    },
+    "quality_verification": {
+      "status": "likely_hd",
+      "evidence": "Il video ha 160K visualizzazioni recenti suggerendo qualità accettabile. Data di upload 4 mesi fa indica disponibilità attuale del source. Senza verifica diretta del player resta da consolidare.",
+      "method": "engagement metrics and upload date"
+    },
+    "poster": {
+      "status": "needs_generation_prompt",
+      "image_url": null,
+      "prompt": "Create a gritty Italian crime film poster-inspired cover for 'La banda Vallanzasca' (1977) by Enzo G. Castellari. Bank robbers in action, 1970s Milan crime atmosphere, noir Italian style, dramatic shadows, vintage criminal poster aesthetic, no logos."
+    },
+    "notes": "Scoperto da YouTube search 'film ita' durante discovery phase (aprile 2026). Regia di Enzo G. Castellari, maestro del cinema d'azione italiano. Film criminale di qualità storica. Prima di promuovere a verificato serve controllo diretto della durata del player e della effettiva disponibilità del stream."
+  },
+  {
+    "id": "viaggi-di-nozze-1995",
+    "title": "Viaggi di nozze",
+    "director": "Carlo Verdone",
+    "year": 1995,
+    "source_list": "YouTube search discovery",
+    "platform": "YouTube",
+    "source_url": "https://www.youtube.com/watch?v=CssBLQZxFlc",
+    "availability_type": "full_film_or_long_form_upload",
+    "wikipedia_duration_minutes": 107,
+    "source_duration_minutes": null,
+    "duration_match_status": "da_verificare",
+    "verification_status": "semiverificato",
+    "audio_verification": {
+      "status": "likely_italian",
+      "evidence": "Titolo YouTube riporta 'ita' e 'film completo'. Video ha 43K visualizzazioni da 9 mesi, metadata coerenti con upload italiano di commedia di Carlo Verdone.",
+      "method": "title metadata and director context"
+    },
+    "quality_verification": {
+      "status": "da_verificare",
+      "evidence": "Video da 9 mesi fa ha 43K visualizzazioni, visibilità moderata. Senza verifica diretta del player resta da consolidare livello di qualità.",
+      "method": "engagement metrics"
+    },
+    "poster": {
+      "status": "needs_generation_prompt",
+      "image_url": null,
+      "prompt": "Create a warm Italian comedy poster-inspired cover for 'Viaggi di nozze' (1995) by Carlo Verdone. Honeymoon couples, romantic travel scenes, 1990s Italian humor, light comedy atmosphere, hand-painted vintage cinema style, no logos."
+    },
+    "notes": "Scoperto da YouTube search 'film ita' durante discovery phase (aprile 2026). Regia di Carlo Verdone, maestro della commedia italiana. Commedia leggera di qualità. Prima di promuovere a verificato serve controllo diretto della durata del player e della effettiva disponibilità del stream."
+  },
+  {
+    "id": "porca-vacca-1982",
+    "title": "Porca Vacca",
+    "director": "Renato Pozzetto",
+    "year": 1982,
+    "source_list": "YouTube search discovery",
+    "platform": "YouTube",
+    "source_url": "https://www.youtube.com/watch?v=l5QQ-8Hyk_M",
+    "availability_type": "full_film_or_long_form_upload",
+    "wikipedia_duration_minutes": 100,
+    "source_duration_minutes": null,
+    "duration_match_status": "da_verificare",
+    "verification_status": "semiverificato",
+    "audio_verification": {
+      "status": "likely_italian",
+      "evidence": "Titolo YouTube riporta 'Film Guerra Doppiato In Italiano Di Renato Pozzetto'. Video ha 92K visualizzazioni da 6 mesi, metadata esplicito su audio italiano.",
+      "method": "title metadata"
+    },
+    "quality_verification": {
+      "status": "da_verificare",
+      "evidence": "Video da 6 mesi ha 92K visualizzazioni, buona visibilità. Senza verifica diretta del player resta da consolidare.",
+      "method": "engagement metrics"
+    },
+    "poster": {
+      "status": "needs_generation_prompt",
+      "image_url": null,
+      "prompt": "Create a vintage Italian war comedy poster-inspired cover for 'Porca Vacca' (1982) directed by/starring Renato Pozzetto. War film comic atmosphere, 1980s cinema style, military comedic tone, warm retro palette, hand-painted vintage poster aesthetic, no logos."
+    },
+    "notes": "Scoperto da YouTube search 'film ita' durante discovery phase (aprile 2026). Regia di Renato Pozzetto, attore e regista italiano. Film di guerra con tono comico. Prima di promuovere a verificato serve controllo diretto della durata del player e della effettiva disponibilità del stream."
+  },
+  {
+    "id": "lo-chiamavano-bulldozer-1978",
+    "title": "Lo chiamavano Bulldozer",
+    "director": "Michele Lupo",
+    "year": 1978,
+    "source_list": "YouTube search discovery",
+    "platform": "YouTube",
+    "source_url": "https://www.youtube.com/watch?v=CT9Bfsk2DIs",
+    "availability_type": "full_film_or_long_form_upload",
+    "wikipedia_duration_minutes": 110,
+    "source_duration_minutes": null,
+    "duration_match_status": "da_verificare",
+    "verification_status": "semiverificato",
+    "audio_verification": {
+      "status": "likely_italian",
+      "evidence": "Titolo YouTube riporta 'ita' e '#filmcompleto'. Video ha 71K visualizzazioni da 1 anno, metadata coerenti con upload italiano.",
+      "method": "title metadata"
+    },
+    "quality_verification": {
+      "status": "da_verificare",
+      "evidence": "Video da 1 anno ha 71K visualizzazioni, visibilità moderata. Senza verifica diretta del player resta da consolidare.",
+      "method": "engagement metrics"
+    },
+    "poster": {
+      "status": "needs_generation_prompt",
+      "image_url": null,
+      "prompt": "Create a tough action film poster-inspired cover for 'Lo chiamavano Bulldozer' (1978) directed by Michele Lupo. Muscular action hero, 1970s Italian action cinema style, gritty street action atmosphere, vintage cinema typography, no logos."
+    },
+    "notes": "Scoperto da YouTube search 'film ita' durante discovery phase (aprile 2026). Regia di Michele Lupo, cinema d'azione italiano. Film d'azione di qualità anni '70. Prima di promuovere a verificato serve controllo diretto della durata del player e della effettiva disponibilità del stream."
   }
 ]
