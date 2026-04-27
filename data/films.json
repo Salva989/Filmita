@@ -323,9 +323,9 @@
       "method": "title metadata"
     },
     "poster": {
-      "status": "needs_generation_prompt",
-      "image_url": null,
-      "prompt": "Create a warm vintage Italian comedy poster-inspired cover for 'Don Camillo monsignore ma non troppo' (1961) by Luigi Comencini. Kindly priest character in charming Italian village, warm earthy tones, retro 1960s cinema style, hand-painted typography, no logos."
+      "status": "youtube_thumbnail",
+      "image_url": "https://img.youtube.com/vi/xCKH8cs2BVg/hqdefault.jpg",
+      "prompt": null
     },
     "notes": "Scoperto da YouTube search 'film ita' durante discovery phase (aprile 2026). Film di Luigi Comencini con Peppino De Filippo. Candidato promettente per collana commedie italiane classic. Prima di promuovere a verificato serve controllo diretto della durata del player e della effettiva disponibilità del stream."
   },
@@ -353,9 +353,9 @@
       "method": "engagement metrics"
     },
     "poster": {
-      "status": "needs_generation_prompt",
-      "image_url": null,
-      "prompt": "Create a classic Italian comedy poster-inspired cover for 'Il Marchese del Grillo' (1981) by Mario Monicelli. Noble aristocrat in Rome, 18th century costume, comic nobility, hand-painted vintage Italian cinema style, warm period tones, no logos."
+      "status": "youtube_thumbnail",
+      "image_url": "https://img.youtube.com/vi/mw4f5bD_oig/hqdefault.jpg",
+      "prompt": null
     },
     "notes": "Scoperto da YouTube search 'film ita' durante discovery phase (aprile 2026). Capolavoro di Mario Monicelli con Alberto Sordi. Commedia italiana di alta qualità. Prima di promuovere a verificato serve controllo diretto della durata del player e della effettiva disponibilità del stream."
   },
@@ -383,9 +383,9 @@
       "method": "engagement metrics and release year"
     },
     "poster": {
-      "status": "needs_generation_prompt",
-      "image_url": null,
-      "prompt": "Create a dramatic gothic horror poster-inspired cover for 'Dracula 3D' (2012) by Dario Argento. Dark vampire castle, red blood accents, 3D horror atmosphere, elegant Italian gothic style, Dario Argento signature giallo mood, no logos."
+      "status": "youtube_thumbnail",
+      "image_url": "https://img.youtube.com/vi/sR88BHY7I8o/hqdefault.jpg",
+      "prompt": null
     },
     "notes": "Scoperto da YouTube search 'film ita' durante discovery phase (aprile 2026). Regia di Dario Argento, maestro del cinema horror italiano. Film di alta visibilità (3.6M views). Prima di promuovere a verificato serve controllo diretto della durata del player e della effettiva disponibilità del stream."
   },
@@ -413,9 +413,9 @@
       "method": "engagement metrics and upload date"
     },
     "poster": {
-      "status": "needs_generation_prompt",
-      "image_url": null,
-      "prompt": "Create a gritty Italian crime film poster-inspired cover for 'La banda Vallanzasca' (1977) by Enzo G. Castellari. Bank robbers in action, 1970s Milan crime atmosphere, noir Italian style, dramatic shadows, vintage criminal poster aesthetic, no logos."
+      "status": "youtube_thumbnail",
+      "image_url": "https://img.youtube.com/vi/URwB_AFEyMw/hqdefault.jpg",
+      "prompt": null
     },
     "notes": "Scoperto da YouTube search 'film ita' durante discovery phase (aprile 2026). Regia di Enzo G. Castellari, maestro del cinema d'azione italiano. Film criminale di qualità storica. Prima di promuovere a verificato serve controllo diretto della durata del player e della effettiva disponibilità del stream."
   },
