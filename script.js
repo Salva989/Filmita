@@ -34,6 +34,13 @@ function buildSummary(films) {
 function renderFilms(films) {
   films.forEach((film) => {
     const node = template.content.cloneNode(true);
+    const poster = node.querySelector('.poster');
+
+    if (film.poster.image_url) {
+      poster.classList.remove('poster-placeholder');
+      poster.style.backgroundImage = `url("${film.poster.image_url}")`;
+    }
+
     node.querySelector('h3').textContent = film.title;
     node.querySelector('.meta').textContent = `${film.director}, ${film.year}`;
     node.querySelector('.platform').textContent = film.platform;

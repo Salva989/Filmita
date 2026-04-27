@@ -23,9 +23,9 @@
       "method": "none"
     },
     "poster": {
-      "status": "needs_generation_prompt",
-      "image_url": null,
-      "prompt": "Create a neorealist Italian cinema poster-inspired cover for 'Umberto D.' (1952) by Vittorio De Sica. Elderly man and small dog in post-war Rome, melancholic street scene, black and white palette, classic hand-painted Italian poster style, no logos."
+      "status": "youtube_thumbnail",
+      "image_url": "https://img.youtube.com/vi/YF8mJF8Vy0g/hqdefault.jpg",
+      "prompt": null
     },
     "notes": "Selezionato in questo heartbeat come singolo film migliorato. Fonte credibile trovata su YouTube; Internet Archive non ha mostrato un candidato film utile nei risultati raccolti. Prima di promuovere a verificato serve controllo diretto della durata del player e della qualità stream."
   },
@@ -53,9 +53,9 @@
       "method": "search snippet"
     },
     "poster": {
-      "status": "needs_generation_prompt",
-      "image_url": null,
-      "prompt": "Create a vintage neorealist Italian film poster-inspired cover for 'Ladri di biciclette' (1948) by Vittorio De Sica. Black and white bicycle, post-war Rome street, father and son silhouette, dramatic lighting, classic Italian typography, no copyright logos, poster-like composition."
+      "status": "youtube_thumbnail",
+      "image_url": "https://img.youtube.com/vi/SSAAp9dD-Yg/hqdefault.jpg",
+      "prompt": null
     },
     "notes": "Fonte primaria del catalogo: Wikipedia '100 film italiani da salvare'. Verifica audio e qualità ancora da consolidare con controllo player o metadata più ricchi."
   },
@@ -83,9 +83,9 @@
       "method": "stale title metadata"
     },
     "poster": {
-      "status": "needs_generation_prompt",
-      "image_url": null,
-      "prompt": "Create a poetic black and white poster-style cover for 'La strada' (1954) by Federico Fellini. Travelling performers, lonely road, circus mood, melancholic Italian neorealism, expressive faces, hand-painted vintage poster feel, no logos."
+      "status": "youtube_thumbnail",
+      "image_url": "https://img.youtube.com/vi/wvrPIJadNsY/hqdefault.jpg",
+      "prompt": null
     },
     "notes": "Il link YouTube precedentemente associato è stato segnalato come non disponibile. Record mantenuto come candidato da ricercare di nuovo, senza promuoverlo a fonte affidabile finché non emerge un sostituto verificabile."
   },
@@ -143,9 +143,9 @@
       "method": "none"
     },
     "poster": {
-      "status": "needs_generation_prompt",
-      "image_url": null,
-      "prompt": "Create a vintage Italian comedy poster-inspired cover for 'Guardie e ladri' (1951) by Mario Monicelli and Steno. Totò and Aldo Fabrizi in post-war Rome, playful chase between cop and swindler, black and white palette, classic hand-painted cinema poster style, no logos."
+      "status": "youtube_thumbnail",
+      "image_url": "https://img.youtube.com/vi/deHJ8r-Slfg/hqdefault.jpg",
+      "prompt": null
     },
     "notes": "Il link YouTube precedentemente associato è stato segnalato come non disponibile. Record mantenuto nel catalogo, ma riportato a da verificare finché non emerge una fonte attiva e controllabile."
   },
@@ -173,9 +173,9 @@
       "method": "none"
     },
     "poster": {
-      "status": "needs_generation_prompt",
-      "image_url": null,
-      "prompt": "Create a classic Italian melodrama poster-inspired cover for 'Bellissima' (1951) by Luchino Visconti. Anna Magnani-like mother figure, Cinecittà audition atmosphere, post-war Roman cinema world, black and white elegance, hand-painted vintage poster style, no logos."
+      "status": "youtube_thumbnail",
+      "image_url": "https://img.youtube.com/vi/szpkjbxDEUw/hqdefault.jpg",
+      "prompt": null
     },
     "notes": "Aggiunto in questo heartbeat come singolo miglioramento reale. IMDb indica runtime di 108 minuti; resta necessario verificare durata player e qualità prima di promuoverlo oltre semiverificato."
   },
@@ -233,9 +233,9 @@
       "method": "none"
     },
     "poster": {
-      "status": "needs_generation_prompt",
-      "image_url": null,
-      "prompt": "Create an evocative cover inspired by 'Amarcord' (1973) by Federico Fellini. Dreamlike winter seaside town in Italy, nostalgic surreal atmosphere, warm muted colors, ensemble cast silhouettes, vintage Italian cinema poster style, no logos."
+      "status": "youtube_thumbnail",
+      "image_url": "https://img.youtube.com/vi/bU6XuHivM3E/hqdefault.jpg",
+      "prompt": null
     },
     "notes": "Record utile come candidato reale ma ancora poco verificato."
   },
@@ -267,7 +267,7 @@
       "image_url": null,
       "prompt": "Create a night-time vintage Italian cinema cover inspired by 'Le notti di Cabiria' (1957) by Federico Fellini. Roman streets at night, vulnerable but spirited woman, neon glow, bittersweet tone, hand-painted poster composition, no logos."
     },
-    "notes": "Il candidato Dailymotion resta debole ma non è stato sostituito da fonti migliori in questa verifica. Record mantenuto come da verificare, senza promozione." 
+    "notes": "Il candidato Dailymotion resta debole ma non è stato sostituito da fonti migliori in questa verifica. Record mantenuto come da verificare, senza promozione."
   },
   {
     "id": "il-sorpasso-1962",
@@ -443,9 +443,9 @@
       "method": "engagement metrics"
     },
     "poster": {
-      "status": "needs_generation_prompt",
-      "image_url": null,
-      "prompt": "Create a warm Italian comedy poster-inspired cover for 'Viaggi di nozze' (1995) by Carlo Verdone. Honeymoon couples, romantic travel scenes, 1990s Italian humor, light comedy atmosphere, hand-painted vintage cinema style, no logos."
+      "status": "youtube_thumbnail",
+      "image_url": "https://img.youtube.com/vi/CssBLQZxFlc/hqdefault.jpg",
+      "prompt": null
     },
     "notes": "Scoperto da YouTube search 'film ita' durante discovery phase (aprile 2026). Regia di Carlo Verdone, maestro della commedia italiana. Commedia leggera di qualità. Prima di promuovere a verificato serve controllo diretto della durata del player e della effettiva disponibilità del stream."
   },
@@ -473,9 +473,9 @@
       "method": "engagement metrics"
     },
     "poster": {
-      "status": "needs_generation_prompt",
-      "image_url": null,
-      "prompt": "Create a vintage Italian war comedy poster-inspired cover for 'Porca Vacca' (1982) directed by/starring Renato Pozzetto. War film comic atmosphere, 1980s cinema style, military comedic tone, warm retro palette, hand-painted vintage poster aesthetic, no logos."
+      "status": "youtube_thumbnail",
+      "image_url": "https://img.youtube.com/vi/l5QQ-8Hyk_M/hqdefault.jpg",
+      "prompt": null
     },
     "notes": "Scoperto da YouTube search 'film ita' durante discovery phase (aprile 2026). Regia di Renato Pozzetto, attore e regista italiano. Film di guerra con tono comico. Prima di promuovere a verificato serve controllo diretto della durata del player e della effettiva disponibilità del stream."
   },
@@ -503,9 +503,9 @@
       "method": "engagement metrics"
     },
     "poster": {
-      "status": "needs_generation_prompt",
-      "image_url": null,
-      "prompt": "Create a tough action film poster-inspired cover for 'Lo chiamavano Bulldozer' (1978) directed by Michele Lupo. Muscular action hero, 1970s Italian action cinema style, gritty street action atmosphere, vintage cinema typography, no logos."
+      "status": "youtube_thumbnail",
+      "image_url": "https://img.youtube.com/vi/CT9Bfsk2DIs/hqdefault.jpg",
+      "prompt": null
     },
     "notes": "Scoperto da YouTube search 'film ita' durante discovery phase (aprile 2026). Regia di Michele Lupo, cinema d'azione italiano. Film d'azione di qualità anni '70. Prima di promuovere a verificato serve controllo diretto della durata del player e della effettiva disponibilità del stream."
   }
